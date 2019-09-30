@@ -7,7 +7,7 @@ nav ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: darkgreen;
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
@@ -26,9 +26,9 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  background-color: #111;
+  background-color: mediumseagreen;
 }
 
 .active {
-  background-color: #4CAF50;
+  background-color: green;
 }
